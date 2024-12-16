@@ -50,7 +50,8 @@ a{
 .home-page{
     min-height: 100vh;
     width: 100vw;
-    background-image: url(../resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../resources/Backgrounds/background-white.png); */
 }
 
 .navigation-bar{
@@ -168,7 +169,8 @@ a{
     border-bottom-left-radius: 50px;
     width: 50vw;
     height: 50vh;
-    background-image: url(../resources/Backgrounds/background-black.png);
+    background-color: #000;
+    /* background-image: url(../resources/Backgrounds/background-black.png); */
 }
 
 .scroll-heading{
@@ -228,7 +230,8 @@ a{
     /* justify-content: center; */
     min-height: 100vh;
     width: 100vw;
-    background-image: url(../resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../resources/Backgrounds/background-white.png); */
 }
 
 .about-left{
@@ -285,7 +288,8 @@ a{
 .company-details-page{
     height: 80vh;
     width: 100vw;
-    background-image: url(../Resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../Resources/Backgrounds/background-white.png); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -294,7 +298,8 @@ a{
 .company-details-container{
     height: 80%;
     width: 90%;
-    background-image: url(../Resources/Backgrounds/background-black.png);
+    background-color: #000;
+    /* background-image: url(../Resources/Backgrounds/background-black.png); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -356,7 +361,8 @@ a{
 .plans-page{
     height: 230vh;
     width: 100vw;
-    background-image: url(../Resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../Resources/Backgrounds/background-white.png); */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -369,7 +375,8 @@ a{
     /* justify-content: center; */
     height: 0vh;
     width: 100vw;
-    background-image: url(../Resources/Backgrounds/background-black.png);
+    background-color: #000;
+    /* background-image: url(../Resources/Backgrounds/background-black.png); */
 }
 
 .plans-heading h1{
@@ -485,7 +492,8 @@ li{
 .book-now-page{
     height: 100vh;
     width: 100vw;
-    background-image: url(../Resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../Resources/Backgrounds/background-white.png); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -508,7 +516,8 @@ li{
     flex-direction: column;
     height: 90%;
     width: 90%;
-    background-image: url(../Resources/Backgrounds/background-black.png);
+    background-color: #000;
+    /* background-image: url(../Resources/Backgrounds/background-black.png); */
 }
 
 .happen-container{
@@ -572,7 +581,8 @@ li{
 .team-page{
     height: 185vh;
     width: 100vw;
-    background-image: url(../resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../resources/Backgrounds/background-white.png); */
 }
 
 .team-page-container{
@@ -648,7 +658,8 @@ li{
 .footer-page{
     height: 40vh;
     width: 100vw;
-    background-image: url(../Resources/Backgrounds/background-white.png);
+    background-color: #E3E3DE;
+    /* background-image: url(../Resources/Backgrounds/background-white.png); */
     display: flex;
     align-items: center;
     justify-content: center;
